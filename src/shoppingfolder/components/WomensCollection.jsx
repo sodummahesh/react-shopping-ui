@@ -6,7 +6,7 @@ const WomensCollection = (props) => {
     <div>
      <h2> {title}</h2>
      <div className='bannerbox'>
-     <img src="/pic/LadiesBanner.gif" alt="" /> </div>
+     <img src="./pic/LadiesBanner.gif" alt="" /> </div>
      <div className='womensimages'>
      <div><img src={image1} alt={title} /></div>
       <div><img src={image2} alt={title} /></div>
