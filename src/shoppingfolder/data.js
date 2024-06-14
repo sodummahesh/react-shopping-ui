@@ -1,6 +1,6 @@
 export const Gents = {
     title: "Gents Fashion",
-    image1: "/pic/Mens/download (1)(1).jpeg",
+    image1: "/pic/download (1)(1).jpeg",
     image2: "/pic/Mens/download (2).jpeg",
     image3: "/pic/Mens/download (3).jpeg",
     image4: "/pic/Mens/download.jpeg",
